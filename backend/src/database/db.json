@@ -1,0 +1,25 @@
+{
+  "books": [
+    {
+      "isbn": 9780060114183,
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel Garcia Marquez",
+      "theme": "Novel",
+      "publicationYear": 1967
+    },
+    {
+      "isbn": 9780393972832,
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "theme": "Novel",
+      "publicationYear": 1851
+    },
+    {
+      "isbn": 9780767908177,
+      "title": "A short history of nearly everything",
+      "author": "Bill Bryson",
+      "theme": "Sciences",
+      "publicationYear": 2003
+    }
+  ]
+}
